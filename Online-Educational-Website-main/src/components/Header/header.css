@@ -13,10 +13,17 @@
   column-gap: 1.3rem;
 }
 
+
+
+span {
+  color: orangered;
+}
+
+
 .nav__item a {
   font-weight: 500;
   font-size: 1.1rem;
-  color: #f5f0f0;
+  color: #070606;
   text-decoration: none;
   transition: 0.3s;
 }

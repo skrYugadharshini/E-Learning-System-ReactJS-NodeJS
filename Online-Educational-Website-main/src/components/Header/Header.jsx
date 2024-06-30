@@ -3,7 +3,7 @@ import { Container } from "reactstrap";
 import "./header.css";
 
 
-
+<header></header>
 const navLinks = [
   {
     display: "Home",
@@ -39,7 +39,7 @@ const Header = () => {
         <div className="navigation d-flex align-items-center justify-content-between">
           <div className="logo">
             <h2 className=" d-flex align-items-center gap-1">
-              <i class="ri-pantone-line"></i> BrightLearn.
+              <i class="ri-pantone-line"></i> <span>Bright</span>learn
             </h2>
           </div>
 

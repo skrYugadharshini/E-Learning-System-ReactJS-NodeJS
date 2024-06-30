@@ -1,12 +1,12 @@
 .counter {
   font-size: 2rem;
   font-weight: 600;
-  color: #e4edea;
+  color: #000000;
 }
 
 .counter__title {
   font-size: 1rem;
-  color: #eff7f4;
+  color: #000000;
   font-weight: 500;
 }
 
