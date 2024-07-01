@@ -13,8 +13,11 @@ function App() {
   return (
     <div className="App">
       <BrowserRouter>
+      <ul>
+        <li><link to='/'>Home</link></li>
+      </ul>
       <Routes>
-        <Route path="/" element={<Header/>}/>
+        <Route path="/" element={<Home/>}/>
         <Route path="/About-us" element={<AboutUs/>}/>
         <Route path="/Choose-us" element={<ChooseUs/>}/>
 
