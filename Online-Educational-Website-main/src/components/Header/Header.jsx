@@ -56,7 +56,7 @@ const Header = () => {
 
             <div className="nav__right">
               
-              <a href="#" className="contact">Contect Us</a>
+              <a href="#" classNam="contact">Contect Us</a>
               
             </div>
           </div>
