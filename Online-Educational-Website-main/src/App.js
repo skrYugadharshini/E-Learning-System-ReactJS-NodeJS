@@ -1,6 +1,6 @@
 
 import Home from "./pages/Home";
-import { Form } from "reactstrap";
+//import { Form } from "reactstrap";
 import AboutUs from "./components/About-us/AboutUs";
 import Header from "./components/Header/Header";
 
@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
       <ul>
-        <li><link to='/'>Home</link></li>
+        <li><link to='/'>AboutUs</link></li>
       </ul>
       <Routes>
         <Route path="/" element={<Home/>}/>
