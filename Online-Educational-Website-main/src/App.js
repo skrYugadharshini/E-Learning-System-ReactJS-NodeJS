@@ -6,6 +6,7 @@ import Header from "./components/Header/Header";
 
 
 import {BrowserRouter, Routes, Route} from 'react-router-dom';
+import ChooseUs from "./components/Choose-us/ChooseUs";
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Header/>}/>
         <Route path="/About-us" element={<AboutUs/>}/>
+        <Route path="/Choose-us" element={<ChooseUs/>}/>
 
 
       
