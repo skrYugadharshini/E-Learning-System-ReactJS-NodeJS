@@ -11,12 +11,11 @@ const HeroSection = () => {
           <Col lg="6" md="6">
             <div className="hero__content">
               <h2 className="mb-4 hero__title">
-                E learning <br /> Learn on your <br /> Suitable Schedule
+              Explore our diverse course catalog <br /> Select and enroll in the <br /> courses that interest you!!
               </h2>
               <p className="mb-5">
-                Lorem ipsum dolor sit amet consectetur <br /> adipisicing elit.
-                Aut saepe voluptatum earum delectus <br /> deserunt id iste,
-                quas officiis et repellat!
+              Unlock a world of knowledge and growth with  <br /> our comprehensive e-learning platform. At Brighlearn,  <br />we are dedicated to,
+              providing engaging and interactive educational!
               </p>
             </div>
             <div className="search">

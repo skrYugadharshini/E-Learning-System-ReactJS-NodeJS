@@ -5,6 +5,20 @@
   line-height: 80px;
 }
 
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 15px 12%;
+  background: orangered;
+  backdrop-filter: blur(10px);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 100;
+}
+
 .nav__list {
   margin: 0;
   padding: 0;

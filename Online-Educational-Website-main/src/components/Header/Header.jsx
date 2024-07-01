@@ -3,7 +3,7 @@ import { Container } from "reactstrap";
 import "./header.css";
 
 
-<header></header>
+<header class="header"></header>
 const navLinks = [
   {
     display: "Home",
@@ -56,7 +56,7 @@ const Header = () => {
 
             <div className="nav__right">
               
-              <a href="#" class="contact">Contect Us</a>
+              <a href="#" className="contact">Contect Us</a>
               
             </div>
           </div>

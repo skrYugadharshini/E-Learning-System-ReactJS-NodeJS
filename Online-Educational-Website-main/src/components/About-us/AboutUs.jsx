@@ -20,9 +20,9 @@ const AboutUs = () => {
             <div className="about__content">
               <h2>About Us</h2>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Excepturi cupiditate animi deserunt libero nesciunt corporis
-                explicabo nobis ex quo molestiae!
+              Our platform offers a diverse range of courses designed to help you achieve 
+              your educational and professional goals at your own pace. With expert 
+              instructors, engaging content, and the convenience to learn anytime, anywhere
               </p>
 
               <div className="about__counter">
