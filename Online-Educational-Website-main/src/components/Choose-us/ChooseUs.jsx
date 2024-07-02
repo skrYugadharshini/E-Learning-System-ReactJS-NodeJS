@@ -16,13 +16,18 @@ const ChooseUs = () => {
             <div className="choose__content">
               <h2>Why Choose Us</h2>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Incidunt mollitia nostrum harum eos praesentium odit a sed quod
-                aut fugit. Lorem ipsum dolor sit amet consectetur adipisicing
-                elit. Reprehenderit omnis, culpa eligendi inventore perspiciatis
-                minus. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Dolores cupiditate facilis provident quidem accusamus impedit
-                tenetur laboriosam debitis nisi eius!
+              Choose our e-learning platform for a seamless and engaging educational experience. Powered by the latest technology, 
+              our platform ensures fast and responsive performance. Our intuitive design makes navigation easy, allowing you to 
+              focus on learning. We offer a wide range of courses across various subjects, providing comprehensive content to meet 
+              your educational goals. Additionally, our commitment to accessibility ensures that everyone can benefit from our resources. 
+              Join us and discover a learning journey that is both enjoyable and effective.
+
+
+
+
+
+
+
               </p>
             </div>
           </Col>

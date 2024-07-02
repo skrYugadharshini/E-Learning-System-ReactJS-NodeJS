@@ -54,20 +54,24 @@ const Header = () => {
               </ul>
             </div>
 
-            <div className="nav__right">
-              
-              <a href="#" classNam="contact">Contect Us</a>
-              
-            </div>
-          </div>
+<div>
 
-          <div className="mobile__menu">
-            <span>
-              <i class="ri-menu-line" onClick={menuToggle}></i>
-            </span>
+            <button className="btn free__btn">Sign in</button>
+            
 
           </div>
         </div>
+</div>
+        <div className="mobile__menu">
+          <span>
+            <i class="ri-menu-line" onClick={menuToggle}></i>
+
+            
+          </span>
+          </div>
+
+      
+
       </Container>
     </header>
   );

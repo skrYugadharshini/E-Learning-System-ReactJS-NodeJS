@@ -5,13 +5,20 @@ import "./features.css";
 const FeatureData = [
   {
     title: "Quick Learning",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+    desc: "Choose our e-learning platform for a fast and efficient learning experience. Our state-of-the-art technology ensures quick access and smooth performance, ",
+
+
+
+
+
+
+
     icon: "ri-draft-line",
   },
 
   {
     title: "All Time Support",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+    desc: "Choose our e-learning platform for a seamless educational experience backed by round-the-clock support. Our cutting-edge technology ensures quick.",
     icon: "ri-discuss-line",
   },
 
