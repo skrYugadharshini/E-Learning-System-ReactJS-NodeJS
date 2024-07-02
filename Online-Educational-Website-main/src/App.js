@@ -27,6 +27,7 @@ import {Routers, Route} from 'react-router-dom'
 //import { Navbar } from 'reactstrap'
 import AboutUs from './components/About-us/AboutUs'
 import {BrowserRouter, Routes, Route} from 'react-router-dom';
+import ChooseUs from './components/Choose-us/ChooseUs';
 
 function App() {
   return(
@@ -36,10 +37,11 @@ function App() {
     <Routes>
       <Route path='/' element={<Home/>}/>
       <Route path='/' element={<AboutUs/>}/>
+      <Route path='/' element={<ChooseUs/>}/>
     </Routes>
     </BrowserRouter>
-    </div>
-     }
+    </div>}
+     
 
   )
 }
