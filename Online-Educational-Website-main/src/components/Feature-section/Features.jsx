@@ -24,7 +24,7 @@ const FeatureData = [
 
   {
     title: "Certification",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+    desc: "Choose our e-learning platform for a comprehensive and rewarding educational experience. Our state-of-the-art technology provides fast.",
     icon: "ri-contacts-book-line",
   },
 ];

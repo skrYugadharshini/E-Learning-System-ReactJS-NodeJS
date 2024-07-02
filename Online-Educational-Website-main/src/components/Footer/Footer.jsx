@@ -19,7 +19,7 @@ const footerQuickLinks = [
   },
 
   {
-    display: "Blog",
+    display: "Certification",
     url: "#",
   },
 ];
@@ -52,7 +52,7 @@ const Footer = () => {
         <Row>
           <Col lg="3" md="6" className="mb-4">
             <h2 className=" d-flex align-items-center gap-1">
-              <i class="ri-pantone-line"></i> Learners.
+              <i class="ri-pantone-line"></i> Brightlearn.
             </h2>
 
             <div className="follows">
@@ -114,9 +114,9 @@ const Footer = () => {
           <Col lg="3" md="6">
             <h6 className="fw-bold">Get in Touch</h6>
 
-            <p>Address: Sylhet, Bangladesh</p>
+            <p>Meepe Padukka</p>
             <p> Phone: 0766675245 </p>
-            <p>Email: example@gmail.com</p>
+            <p>chayugadharshini@gmail.com</p>
           </Col>
         </Row>
       </Container>

@@ -1,12 +1,12 @@
 .newsletter {
-  background: #bf7117;
+  background: orangered;
 
   padding: 60px;
   border-radius: 15px;
 }
 
 .newsletter h2 {
-  color: #fff;
+  color: #090808;
 }
 .subscribe input {
   border: none;
@@ -15,7 +15,7 @@
 
 .subscribe {
   padding: 7px 10px;
-  background: #fff;
+  background: #fffcfc;
   width: 45%;
   margin: auto;
   border-radius: 50px;

@@ -19,7 +19,7 @@ const freeCourseData = [
   },
   {
     id: "02",
-    title: "Coding for Junior Basic Course",
+    title: "Machine Learning and Deep Learning for Beginners",
     imgUrl: courseImg02,
     students: 5.3,
     rating: 1.7,
@@ -27,7 +27,7 @@ const freeCourseData = [
 
   {
     id: "03",
-    title: "Search Engine Optimization - Basic",
+    title: "Web Development ",
     imgUrl: courseImg03,
     students: 5.3,
     rating: 1.7,
