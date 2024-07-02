@@ -8,7 +8,7 @@ const Company = () => {
         <Row>
           <Col lg="2" md="3" sm="4" xs="6">
             <h3 className=" d-flex align-items-center gap-1">
-              <i class="ri-vimeo-line"></i> Vimeo
+              <i class="ri-vimeo-line"></i> //Vimeo
             </h3>
           </Col>
 

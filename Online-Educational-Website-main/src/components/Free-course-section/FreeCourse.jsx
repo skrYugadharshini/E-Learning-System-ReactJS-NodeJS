@@ -12,7 +12,7 @@ import "./free-course.css";
 const freeCourseData = [
   {
     id: "01",
-    title: "Basic Web Development Course",
+    title: "Basic Natural Language Processing Course",
     imgUrl: courseImg01,
     students: 5.3,
     rating: 1.7,

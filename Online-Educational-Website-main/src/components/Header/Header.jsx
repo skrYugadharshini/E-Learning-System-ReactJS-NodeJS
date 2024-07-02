@@ -15,7 +15,7 @@ const navLinks = [
   },
 
   {
-    display: "yuga",
+    display: "Courses",
     url: "#",
   },
   {
