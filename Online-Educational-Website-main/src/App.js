@@ -1,6 +1,7 @@
+import { Card } from "reactstrap";
 import Home from "./pages/Home";
 import { Route, Routes } from "react-router-dom";
-
+import Cart from './components/Cart/Cart'
 
 const App =() =>
   return (
@@ -8,7 +9,8 @@ const App =() =>
     <div className='app'>
       <header/>
       <Routes>
-        <Route path='/' element={<Home/>}
+        <Route path='/' element={<Home/>}/>
+        <Route path='/Cart' element={<Card/>}/>
       </Routes>
     </div>
     </>
