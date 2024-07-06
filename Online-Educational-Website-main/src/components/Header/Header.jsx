@@ -54,26 +54,27 @@ const Header = () => {
               </ul>
             </div>
 
-<div>
+            <div>
 
-            <button className="btn free__btn">Sign in</button>
-            
+              < button className="btn free__btn">Sign in</button>
+        
+
 
           </div>
         </div>
-</div>
-        <div className="mobile__menu">
-          <span>
-            <i class="ri-menu-line" onClick={menuToggle}></i>
+      </div>
+      <div className="mobile__menu">
+        <span>
+          <i class="ri-menu-line" onClick={menuToggle}></i>
 
-            
-          </span>
-          </div>
 
-      
+        </span>
+      </div>
 
-      </Container>
-    </header>
+
+
+    </Container>
+    </header >
   );
 };
 
